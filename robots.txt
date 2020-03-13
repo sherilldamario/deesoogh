@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://teeleesho.luketrenaman.com/sitemap.xml
